@@ -11,9 +11,9 @@ and code to generate recurrence matrices and to compute recurrence rates.
 Additional measures can be found in [```main_additional_measures.ipynb```](https://github.com/mdhk/CDM-project/blob/master/main_additional_measures.ipynb).
 Both of these notebooks employ several helper functions located in the [```tools```](https://github.com/mdhk/CDM-project/tree/master/tools) folder.
 
-Code for semantic alignment can be found in [branch ```ard```](https://github.com/mdhk/CDM-project/tree/ard), in notebook [```semantic_recurrence.ipynb```](https://github.com/mdhk/CDM-project/blob/ard/semantic_recurrence.ipynb).
-Functions used to prepare all corpus data for GLM fits can be found in another notebook in the same branch, titled
-[```GLM_data.ipynb```](https://github.com/mdhk/CDM-project/blob/ard/GLM_data.ipynb).
+Code for semantic alignment can be found in notebook [```semantic_recurrence.ipynb```](https://github.com/mdhk/CDM-project/blob/master/semantic_recurrence.ipynb).
+Functions used to prepare all corpus data for GLM fits can be found in another notebook, titled
+[```GLM_data.ipynb```](https://github.com/mdhk/CDM-project/blob/master/GLM_data.ipynb).
 
 R code for the linear regressions testing change in complexity over time, and for the GLM testing effects of alignment on complexity is in [```linear_regressions.r```](https://github.com/mdhk/CDM-project/blob/master/linear_regressions.r) and [```glm_models.r```](https://github.com/mdhk/CDM-project/blob/master/glm_models.r), respectively.
 
